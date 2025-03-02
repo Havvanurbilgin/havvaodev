@@ -1,0 +1,3 @@
+abstract class: Abstract class, içinde en az bir tane soyut (abstract) metot barındıran bir sınıftır.
+abstraction:Abstraction (Soyutlama), gereksiz detayları gizleyerek yalnızca gerekli olan özellikleri göstermeyi sağlar. Abstract class ve interface kullanarak yapılabilir.
+polymorphism:Polymorphism, aynı isimdeki bir metodu farklı şekillerde kullanabilmemizi sağlar.  
