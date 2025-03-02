@@ -1,0 +1,61 @@
+class Car
+{
+    public string marka { get; set; }
+    public string vitestürü { get; set; }
+    
+    public Car(string marka, string vitestürü)
+    {
+        Marka = marka;
+        Vitestürü = vitestürü;
+    }
+
+    public void DisplayInfo()
+    {
+        Console.WriteLine($"{marka} → {vitestürü} viteslidir.");
+    }
+}
+
+// Alt sınıflar (Subclasses)
+class BMW : Car
+{
+    public BMW() : base("BMW", "Düz") {}
+}
+
+class Porsche : Car
+{
+    public Porsche() : base("Porsche", "Otomatik") {}
+}
+
+class Mercedes : Car
+{
+    public Mercedes() : base("Mercedes", "Otomatik") {}
+}
+
+class Togg : Car
+{
+    public Togg() : base("Togg", "Otomatik") {}
+}
+
+class Audi : Car
+{
+    public Audi() : base("Audi", "Otomatik") {}
+}
+
+class Toyota : Car
+{
+    public Toyota() : base("Toyota", "Düz") {}
+}
+
+class Program
+{
+    static void Main()
+    {
+        List<Car> cars = new List<Car> { new BMW(), new Porsche(), new Mercedes(), new Togg(), new Audi(), new Toyota() };
+        
+        foreach (var car in cars)
+        {
+            car.DisplayInfo();
+        }
+    }
+}
+
