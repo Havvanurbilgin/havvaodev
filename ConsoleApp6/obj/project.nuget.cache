@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NarROYF79Y0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\havva\\Desktop\\github\\havvaodev\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\havva\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\havva\\.nuget\\packages\\dryioc.dll\\5.4.3\\dryioc.dll.5.4.3.nupkg.sha512",
+    "C:\\Users\\havva\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512",
+    "C:\\Users\\havva\\.nuget\\packages\\lamarcodegeneration\\6.3.0\\lamarcodegeneration.6.3.0.nupkg.sha512",
+    "C:\\Users\\havva\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\havva\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\havva\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

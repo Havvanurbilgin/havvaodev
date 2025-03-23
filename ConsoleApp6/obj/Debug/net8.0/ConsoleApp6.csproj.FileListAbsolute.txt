@@ -1,0 +1,6 @@
+C:\Users\havva\Desktop\github\havvaodev\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\havva\Desktop\github\havvaodev\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\havva\Desktop\github\havvaodev\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\havva\Desktop\github\havvaodev\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\havva\Desktop\github\havvaodev\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\havva\Desktop\github\havvaodev\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.sourcelink.json
